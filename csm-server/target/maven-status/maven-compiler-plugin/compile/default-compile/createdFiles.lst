@@ -1,0 +1,10 @@
+com\anga\csm\license\CustomKeyStoreParam.class
+com\anga\csm\CsmServerApplication.class
+com\anga\csm\license\LinuxServerInfos.class
+com\anga\csm\license\CustomLicenseManager.class
+com\anga\csm\license\LicenseCreator.class
+com\anga\csm\controller\LicenseCreatorController.class
+com\anga\csm\license\LicenseCheckModel.class
+com\anga\csm\license\AbstractServerInfos.class
+com\anga\csm\license\WindowsServerInfos.class
+com\anga\csm\license\LicenseCreatorParam.class

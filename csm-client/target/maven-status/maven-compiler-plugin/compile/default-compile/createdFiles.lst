@@ -1,0 +1,14 @@
+com\qingfeng\license\CustomKeyStoreParam.class
+com\qingfeng\license\WindowsServerInfos.class
+com\qingfeng\license\CustomLicenseManager.class
+com\qingfeng\license\LicenseVerifyParam.class
+com\qingfeng\controller\LoginController.class
+com\qingfeng\license\LicenseCheckModel.class
+com\qingfeng\license\LicenseManagerHolder.class
+com\qingfeng\config\WebMvcConfig.class
+com\qingfeng\license\AbstractServerInfos.class
+com\qingfeng\license\LicenseCheckInterceptor.class
+com\qingfeng\license\LicenseVerify.class
+com\qingfeng\license\LinuxServerInfos.class
+com\qingfeng\CsmClientApplication.class
+com\qingfeng\license\LicenseCheckListener.class
